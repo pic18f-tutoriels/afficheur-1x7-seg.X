@@ -1,4 +1,9 @@
-#include <htc.h>
+/*
+ * Démontre l'utilisation des ports comme entrées / sorties digitales
+ * @author jean-michel-gonet
+ */
+
+#include <xc.h>
 
 /**
  * Bits de configuration:
